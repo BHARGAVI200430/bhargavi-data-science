@@ -1,4 +1,4 @@
-# bhargavi-data-science
+# About me ⭐⭐
 🎓 CSE (Data Science) student | 📊 Data Analytics &amp; ML projects | ☁️ Cloud &amp; Linux learner
 # 👋 Hi, I'm Bhargavi S Habalkar  
 
