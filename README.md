@@ -24,11 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHARGAVI200430&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVI200430&layout=compact&theme=dark)
 
 ---
 
@@ -40,6 +35,7 @@
 ---
 
 ## 🏆 Achievements
-- 📄 IEEE Paper on Breast Cancer Prediction  
+- 📄 IEEE Paper on Breast Cancer Prediction
+- 📄 IEEE Paper on Smart vehicle Emission Tracker (IOT)
 - ☁️ Google Cloud Data Analytics Certified  
 - 🤖 AI & Robotics Training Workshop  
